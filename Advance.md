@@ -129,7 +129,7 @@ Keep it alive — as you master real red team ops, append your new payloads, tri
 
 ---
 
-**✅ Author: [Your Name] — Black Badge Hacker Roadmap**  
+**✅ Author: [Hacx Singh] — Black Badge Hacker**  
 **🏴‍☠️ Version: Advanced Tactics for Real-World Pentesting**
 
 ---
