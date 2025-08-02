@@ -260,4 +260,4 @@ I use this daily to sharpen my offensive skills and build my Black Badge Hacker 
 Push new advanced tricks as you learn — this file is *never finished*. 🏴‍☠️
 
 ---
-**Made by [YourName] — Black Badge Hacker in training.**
+**Made by [Hacx Singh] — Black Badge Hacker in training.**
