@@ -140,14 +140,6 @@ last	Logins
 who, w	Who’s online
 
 
-
----
-
-## ✅ 📁 `Advanced.md` — *ADVANCED LINUX PENTESTER COMMANDS*
-
-```markdown
-# ⚔️ ADVANCED LINUX PENTESTER COMMANDS & TACTICS
-
 This is my **Advanced Linux Red Team & Exploitation Cheat Sheet** — focused on **privilege escalation**, **kernel ops**, **wireless hacks**, and **staying stealthy**.
 
 ---
